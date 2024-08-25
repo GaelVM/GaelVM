@@ -3,7 +3,11 @@
 
 # ¡Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Me conocen en el mundo pokémon como Gael VM, aqui tienen unos cuantos repositorios sobre info de el juego.
+Soy conocido en el mundo pokémon como Gael VM, este es mi repo con algunos proyectos que uso para las web.
 
 
+<!-- links to your social media accounts -->
+
+[1]: https://facebook.com/@ZGaelVM
+[2]: https://youtube.com/@ZgaelVM
 
