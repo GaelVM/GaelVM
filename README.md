@@ -14,12 +14,12 @@ Soy conocido en el mundo pokémon como Gael VM, este es mi repo con algunos proy
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaelVM&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://raw.githubusercontent.com/GaelVM">
+<a href="https://github.com/GaelVM/DataGo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GaelVM&repo=DataGo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://raw.githubusercontent.com/GaelVM">
+<a href="https://github.com/GaelVM/DBImages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GaelVM&repo=DBImages&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
