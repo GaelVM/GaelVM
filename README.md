@@ -3,7 +3,11 @@
 
 # ¡Hola! <img src="https://raw.githubusercontent.com/GaelVM/GaelVM/main/wave.gif" width="30px" height="30px" />
 
+
+
 Soy conocido en el mundo pokémon como Gael VM, este es mi repo con algunos proyectos que uso para las web.
+
+ <img src="https://raw.githubusercontent.com/GaelVM/GaelVM/main/good-times.svg" />
 
 ## &#x1f4c8; GitHub Stats
 
